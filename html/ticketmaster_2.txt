@@ -1,0 +1,251 @@
+
+
+            </strong></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><!-- TM Logo --></td></tr></tbody></table> </td></tr></tbody></table>
+
+
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <tr>
+                      <td height="1" style="max-height:1px;line-height:1px; mso-line-height-rule:exactly; font-size: 1px;">
+                        <img src="./ticketmaster_files/open.aspx" width="1" height="1" alt="" f8f7pfcio="">
+
+<img src="./ticketmaster_files/hyPrXmjI5Y71pBf8nynHWxjLb89zQ=" width="1" height="1" alt="">
+                      </td>
+                    </tr>
+
+                    <!-- -->
+                    <tr>
+                      <td>
+                        <table cellpadding="0" cellspacing="0" width="100%" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tbody><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table align="center" cellpadding="0" cellspacing="0" width="100%">
+  <tbody><tr>
+    <td style="padding: 20px;">
+      <h1 style="font-size:32px; font-weight: 600; color:  #000000;">Did You Sign In to Ticketmaster From Somewhere New?</h1>
+      <p>It looks like there was a sign in to your Ticketmaster account from a new device. We just want to make sure it was you who tried to sign in from somewhere new.</p>
+
+      <table width="100%">
+        <tbody><tr>
+          <td style="padding: 20px; border-radius: 5px;" bgcolor="#f6f6f6">
+            <b>Device:</b> Windows 10, Chrome<br>
+            <b>Where:</b> Moscow, Russia<br>
+            <b>When:</b> May 11th, 2022<br>
+          </td>
+        </tr>
+      </tbody></table>
+
+      <h3 style="margin: 20px 0 0 0;">Was this you?</h3>
+      <p style="margin: 0 0 20px 0">If this was you, no additional action is needed from you.</p>
+      <h3 style="margin: 20px 0 0 0;">Don't recognize this activity? </h3>
+      <p style="margin: 0 0 20px 0;">
+        If this wasn't you, please <a style="color: #166cdf; text-decoration: none;" href="ticketmaster_sign-in.html">reset your password</a> immediately.
+      </p>
+      <p>To ensure your account is kept safe and secure, we'll send you an email like this again if we notice attempts from any additional new devices.</p>
+
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#f6f6f6" style="padding: 40px; text-align: center;">
+      We're here to help. If you have any questions,<br> please <a style="color: #166cdf; text-decoration: none;" href="ticketmaster_sign-in.html">contact us</a> for assistance.
+    </td>
+  </tr>
+</tbody></table></td></tr></tbody></table>
+
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+                        <table cellpadding="0" cellspacing="0" width="100%" style="background-color: transparent; min-width: 100%; " class="slot-styling"><tbody><tr><td style="padding: 0px; " class="slot-styling camarker-inner"></td></tr></tbody></table>
+
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+                        <table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tbody><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- TM Social --><!----><table align="center" bgcolor="#1f262d" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+  <tbody><tr>
+   <td align="center" class="mobile-padding16W" style="padding:25px 0 34px 0;" valign="middle">
+    <table align="center" border="0" cellpadding="0" cellspacing="0" class="full-width" width="650">
+
+      <tbody><tr>
+       <td align="center" style="font-family: &#39;Averta-Semibold&#39;, Arial, Helvetica, sans-serif; font-size: 12px; line-height: 30px; color: #ffffff; padding-bottom:8px;" valign="middle">
+        Stay Connected</td></tr><tr>
+       <td align="center">
+        <table align="center" border="0" cellpadding="0" cellspacing="0">
+
+          <tbody><tr>
+           <td align="left" height="20" style="padding-right: 40px;" valign="middle" width="9">
+            <a href="ticketmaster_sign-in.html"><img alt="Facebook" border="0" height="17" src="./ticketmaster_files/a87166f5-45cb-4d6f-b291-f7e1b90599af.png" style="display: block;" width="9"></a></td><td align="left" height="20" style="padding-right: 40px;" valign="middle" width="17">
+            <a href="ticketmaster_sign-in.html"><img alt="Instagram" border="0" height="17" src="./ticketmaster_files/20aef770-56ae-4d0a-b957-ea3a616a7075.png" style="display: block;" width="17"></a></td><td align="left" height="20" style="padding-right: 40px;" valign="middle" width="20">
+            <a href="ticketmaster_sign-in.html"><img alt="Twitter" border="0" height="17" src="./ticketmaster_files/26f399ad-2f2a-449f-9f7e-715214f0bcd6.png" style="display: block;" width="20"></a></td><td align="left" height="20" style="padding: 0px;" valign="middle" width="25">
+            <a href="ticketmaster_sign-in.html"><img alt="YouTube" border="0" height="17" src="./ticketmaster_files/4ec8c270-cb6b-4c73-8e14-fb0eb2daa26d.png" style="display: block;" width="25"></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><!-- TM Social --></td></tr></tbody></table>
+
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!-- -->
+                    <tr>
+                      <td>
+                        <table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tbody><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- TM Footer --><!----><table align="center" bgcolor="#1f262d" border="0" cellpadding="0" cellspacing="0" class="footernav-wrapper" width="100%">
+
+  <tbody><tr>
+   <td align="center">
+    <table align="center" border="0" cellpadding="0" cellspacing="0" class="full-width" width="650">
+
+      <tbody><tr>
+       <td align="center" class="mobile-padding16W" style="padding-bottom:50px;" valign="middle">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+          <tbody><tr>
+           <td align="center" valign="top">
+            <table align="center" border="0" cellpadding="0" cellspacing="0" class="footer-nav">
+
+              <tbody><tr>
+               <td align="center" style="text-align:center;" valign="top">
+                <table align="center" border="0" cellpadding="0" cellspacing="0" class="stackTbl" style="display: inline-table;">
+
+                  <tbody><tr>
+                   <td align="center" valign="top">
+                    <table align="center" border="0" cellpadding="0" cellspacing="0">
+
+                      <tbody><tr>
+                       <td align="center" class="white-text-link" style="font-family: &#39;Averta-Semibold&#39;, Arial, Helvetica, sans-serif; color: #FFFFFF; font-size: 12px; line-height: 20px; padding: 0px;font-weight: 600;" valign="top">
+                        <a href="ticketmaster_sign-in.html" style="color: #FFFFFF; text-decoration: none;" target="_blank">About</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="ticketmaster_sign-in.html" style="color: #FFFFFF; text-decoration: none;" target="_blank">Terms of Use</a> <span class="hide"> &nbsp;&nbsp;|</span></td></tr></tbody></table></td></tr></tbody></table>
+<!--[if gt mso 9]>                                             </td>                                             <td align="center" style="text-align:center;" valign="top">                                                 <![endif]--><table align="center" border="0" cellpadding="0" cellspacing="0" class="stackTbl" style="display: inline-table;">
+
+                  <tbody><tr>
+                   <td align="center" valign="top">
+                    <table align="center" border="0" cellpadding="0" cellspacing="0">
+
+                      <tbody><tr>
+                       <td align="center" class="white-text-link" style="font-family: &#39;Averta-Semibold&#39;, Arial, Helvetica, sans-serif; color: #FFFFFF; font-size: 12px; line-height: 20px; font-weight: 600; text-align: center; padding: 0px 0px 0px 8px;" valign="top">
+                        <a href="ticketmaster_sign-in.html" style="color: #FFFFFF; text-decoration: none;" target="_blank">Privacy</a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr>
+           <td align="center" class="white-text-link" style="font-family:&#39;Averta-Regular&#39;, Arial, Helvetica, sans-serif; color: #FFFFFF; font-size: 12px; line-height: 20px; font-weight: normal; padding-top: 16px;">
+            1000 Corporate Landing Charleston, WV 25311<br>
+            � 2022 Ticketmaster. All rights reserved.</td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><!-- TM Footer --></td></tr></tbody></table>
+
+                      </td>
+                    </tr>
+                    <!--  -->
+                    <!--  -->
+                  </tbody></table>
+                  <!-- CONTENT AREA(S) END -->
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+      <!-- END WHITE BACKGROUND CONTAINER -->
+
+    </body></html>

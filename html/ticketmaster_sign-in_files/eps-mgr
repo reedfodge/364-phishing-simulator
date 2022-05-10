@@ -1,0 +1,56 @@
+function iamNotaRobot(lang, brand = 'api'){
+            const globalVariabes = document.createElement('script');
+            const realBrand = (brand === 'api'? 'tm': brand);
+            globalVariabes.setAttribute('type','text/javascript');
+            globalVariabes.textContent = 'var tc="";var rid="";var rr="https://auth.ticketmaster.com/";var host="epsf.ticketmaster.com";var ip="100.15.134.25";var action="captcha";';
+            globalVariabes.textContent = globalVariabes.textContent + 'var al=\''+lang+'\';' + 'var ss=\''+ realBrand +'.css\';';
+            document.head.appendChild(globalVariabes);
+            const epsCaptcha = document.querySelector('#eps-captcha');
+            let xhr = new XMLHttpRequest();
+            const baseUrl = 'https://epsf.ticketmaster.com';
+            xhr.open('GET', baseUrl + '/amigood');
+            xhr.setRequestHeader('x-lang',lang);
+            xhr.setRequestHeader('brand',brand);
+            xhr.setRequestHeader('requesting_host', window.location.host);
+            xhr.onreadystatechange = function() {
+        if (xhr.readyState === XMLHttpRequest.DONE) {
+            const parser = new DOMParser();
+            const epsContent= parser.parseFromString(xhr.responseText, 'text/html');
+            const scripts =  Array.from(epsContent.querySelectorAll('script'));
+
+            scripts.filter(script => script.hasAttribute('src') && script.getAttribute('src').includes('geetest')).map(
+                script => {
+                  const scriptEL = document.createElement('script');
+                  scriptEL.setAttribute('src',script.getAttribute('src'));
+                  document.head.appendChild(scriptEL);
+                  script.remove();
+                  epsCaptcha.innerHTML = epsContent.body.innerHTML;
+                  scriptEL.onload = ()=>{
+                    scripts.filter(script => script.textContent.includes('#captcha-box') 
+                    || script.textContent.includes('function solvedCaptcha(payload)')).forEach(element => {
+                      const scriptEL = document.createElement('script');
+                      scriptEL.textContent = element.textContent;
+                      scriptEL.setAttribute('type', 'text/javascript');
+                      document.head.appendChild(scriptEL);
+                      element.remove()
+                    });
+                  }
+                });
+            const captchaScript = document.createElement('script');
+            captchaScript.setAttribute('type','text/javascript');
+            captchaScript.setAttribute('src', baseUrl + '/distil/captcha.js');
+            captchaScript.onload = ()=> eval('load()' );
+            document.head.appendChild(captchaScript);
+            const epsCss= document.createElement('style');
+            epsCss.textContent = 'div#eps-captcha{display:flex;flex:1;flex-direction:column;font-family:Averta,Helvetica Neue,Helvetica,Arial,sans-serif;line-height:2;padding-top:10%;}div#eps-captcha div{justify-content:center;flex-direction:column;display:flex;}.box2{color:#262626;opacity:0.65;margin:0px auto}.content-wrapper .content{margin:0px auto}div#t1{align-content:center;font-weight:600;margin:auto}.box{border:solid 1px#ebebeb;font-stretch:normal;font-style:normal;letter-spacing:normal;color:#262626}div#t2{margin:auto;width:80%}ul#t3{width:80%;margin:auto}div#t4{width:80%;margin:auto}';
+            document.head.appendChild(epsCss);
+            const viewport = document.createElement('meta')
+            viewport.setAttribute('name','viewport');
+            viewport.setAttribute('content','width=device-width, initial-scale=1');
+            document.head.appendChild(viewport);
+        }
+    };
+    xhr.send();
+    };
+
+    var h=window.location.host; var d_f=new Map([]); let features=d_f.get(h); if (features && features.length >0) { for (let i=0; i< features.length; i++) { if (features[i] == 'd') {s=document.createElement('script');s.src='https://epsf.ticketmaster.com/eps-d';s.charset='utf-8';document.head.appendChild(s);} else if (features[i] == 'h') {s=document.createElement('script');s.src='https://epsf.ticketmaster.com/eps-h';s.charset='utf-8';document.head.appendChild(s);};}} else { s=document.createElement('script');s.src='https://epsf.ticketmaster.com/eps-d';s.charset='utf-8';document.head.appendChild(s); };

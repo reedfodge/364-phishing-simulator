@@ -1,0 +1,1 @@
+self.__MIDDLEWARE_MANIFEST=(function(a){return [["\u002Fsettings\u002Fpayment-methods",a],["\u002Fstory",a],["\u002Fu",a]]}(false));self.__MIDDLEWARE_MANIFEST_CB&&self.__MIDDLEWARE_MANIFEST_CB()

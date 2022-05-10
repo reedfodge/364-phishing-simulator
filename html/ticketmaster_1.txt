@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<!-- saved from url=(0061)https://s12.aconvert.com/convert/p3r68-cdx67/aaxn3-hcryj.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+    <meta name="viewport" content="width=device-width">
+    <title>Ticketmaster
+    </title>
+    <style type="text/css">
+      @font-face {
+        font-family: 'Averta-Regular';
+        src: url('http://media.ticketmaster.com/en-us/img/email/cend/Averta-Regular.eot') format('eot');
+        src: url('http://media.ticketmaster.com/en-us/img/email/cend/Averta-Regular.woff') format('woff'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/Averta-Regular.woff2') format('woff2'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/Averta-Regular.otf') format('opentype'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/Averta-Regular.ttf') format('truetype');
+        font-weight: 300 !important;
+        font-style: normal;
+      }
+      @font-face {
+        font-family: 'Averta-Semibold';
+        src: url('http://media.ticketmaster.com/en-us/img/email/cend/avertape-semibold-webfont.eot') format('eot');
+        src: url('http://media.ticketmaster.com/en-us/img/email/cend/avertape-semibold-webfont.woff') format('woff'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/avertape-semibold-webfont.woff2') format('woff2'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/avertape-semibold-webfont.otf') format('opentype'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/avertape-semibold-webfont.ttf') format('truetype');
+        font-weight: bold;
+        font-style: normal;
+      }
+      @font-face {
+        font-family: 'TMSans';
+        src: url('http://media.ticketmaster.com/en-us/img/email/cend/ET_Font_20160219_TMSans-Regular.eot');
+        src: url('http://media.ticketmaster.com/en-us/img/email/cend/ET_Font_20160219_TMSans-Regular.woff') format('woff'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/ET_Font_20160219_TMSans-Regular.woff2') format('woff2'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/ET_Font_20160219_TMSans-Regular.otf') format('opentype'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/ET_Font_20160219_TMSans-Regular.ttf') format('truetype');
+        font-weight: normal;
+      }
+      @font-face {
+        font-family: 'TMSans-Bold';
+        src: url('http://media.ticketmaster.com/en-us/img/email/cend/ET_Font_20160219_TMSans-Bold.eot');
+        src: url('http://media.ticketmaster.com/en-us/img/email/cend/ET_Font_20160219_TMSans-Bold.woff') format('woff'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/ET_Font_20160219_TMSans-Bold.woff') format('woff2'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/ET_Font_20160219_TMSans-Bold.otf') format('opentype'),
+          url('http://media.ticketmaster.com/en-us/img/email/cend/ET_Font_20160219_TMSans-Bold.ttf') format('truetype');
+        font-weight: bold;
+      }
+      .tmsans {
+        font-family: 'TMSans', 'Futura', Arial, Helvetica, sans-serif !important;
+      }
+      .font-averta {
+        font-family: 'Averta-Regular', Arial, Helvetica, sans-serif !important;
+      }
+      .font-avertasemibold {
+        font-family: 'Averta-Semibold', Arial, Helvetica, sans-serif !important;
+      }
+      /* Fix gap on Outlook.com and Outlook 365 */
+      [owa] div,button {
+        margin:0 !important;
+        padding:0 !important;
+        display:block !important;
+      }
+      /* prevent iOS font upsizing */
+      * {
+        -webkit-text-size-adjust: none;
+      }
+      /* force Outlook.com to honor line-height */
+      .ExternalClass * {
+        line-height: 100%;
+      }
+      td {
+        mso-line-height-rule: exactly;
+      }
+      /* prevent iOS auto-linking */
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+      /** Prevent Outlook Purple Links on CTAs **/
+      .white-text-link a:link {
+        color: #ffffff;
+      }
+      .blue-text-link a:link {
+        color: #026cdf;
+      }
+      /*** Responsive CSS ***/
+      @media only screen and (max-width:599px) {
+        /*** Layout ***/
+        body {
+          width: 100%;
+          min-width: 100%;
+          position: relative;
+          top: 0;
+          left: 0;
+          right: 0;
+          margin: 0;
+          padding: 0;
+        }
+        .marginFix {
+          position: relative;
+          top: 0;
+          left: 0;
+          right: 0;
+        }
+        .font-averta {
+          font-weight: normal !important;
+        }
+        .full-width-container {
+          width: 100% !important;
+          min-width: 280px !important;
+        }
+        .hide {
+          width: 0px !important;
+          height: 0px !important;
+          display: none !important;
+        }
+        .show-mobile {
+          float:none !important;
+          display:table-row !important;
+          margin: 0;
+          padding:0;
+          overflow : visible !important;
+          width:auto !important;
+          height: auto !important;
+          max-height:inherit !important;
+          visibility: visible !important;
+          font-size: inherit !important;
+        }
+        .full-width {
+          width: 100% !important;
+          min-width: 100% !important;
+        }
+        .stackTbl {
+          width: 100% !important;
+          display: table !important;
+        }
+        .center {
+          margin: 0px auto !important;
+        }
+        .autoHeight {
+          height:auto !important;
+        }
+        /*** Padding Styles ***/
+        .mobile-padding0 {
+          padding: 0px !important;
+        }
+        .mobile-padding16 {
+          padding:16px !important;
+        }
+        .mobile-padding16H {
+          padding-top:16px !important;
+          padding-bottom:16px !important;
+        }
+        .mobile-padding16W {
+          padding-left:16px !important;
+          padding-right:16px !important;
+        }
+        .mobile-padding16T {
+          padding-top:16px !important;
+        }
+        .mobile-padding16B {
+          padding-bottom:16px !important;
+        }
+        .mobile-padding20 {
+          padding:20px !important;
+        }
+        .mobile-padding20H {
+          padding-top:20px !important;
+          padding-bottom:20px !important;
+        }
+        .mobile-padding20W {
+          padding-left:20px !important;
+          padding-right:20px !important;
+        }
+        .mobile-padding20T {
+          padding-top:20px !important;
+        }
+        .mobile-padding20B {
+          padding-bottom:20px !important;
+        }
+        .mobile-padding25 {
+          padding:25px !important;
+        }
+        .mobile-padding25H {
+          padding-top:25px !important;
+          padding-bottom:25px !important;
+        }
+        .mobile-padding25W {
+          padding-left:25px !important;
+          padding-right:25px !important}
+        .mobile-padding25T {
+          padding-top:25px !important;
+        }
+        .mobile-padding25B {
+          padding-bottom:25px !important;
+        }
+        .ad-on {
+          padding:16px 16px 16px 14px !important;
+        }
+        /*** Dividers ***/
+        .divider {
+          width: 100% !important;
+        }
+        .sideRails {
+          width: 20px !important;
+        }
+        /*** Image Styles ***/
+        img.fullWidthImg {
+          width: 100% !important;
+          height: auto !important;
+          min-width: 100% !important;
+        }
+        .tmLogo {
+          width: 142px !important;
+          height: auto !important;
+        }
+        /*** Text Styles ***/
+        .centerText {
+          text-align: center !important;
+        }
+        .largeHeadlne {
+          font-size: 32px !important;
+          line-height: 40px !important;
+          padding: 20px 20px 8px 20px !important;
+        }
+        .text10px {
+          font-size: 10px !important;
+          line-height: 16px !important;
+        }
+        .text12px {
+          font-size: 12px !important;
+          line-height: 16px !important;
+        }
+        .text14px {
+          font-size: 14px !important;
+          line-height: 19px !important;
+        }
+        .text16px {
+          font-size: 16px !important;
+          line-height: 22px !important;
+        }
+        .text20px {
+          font-size: 20px !important;
+          line-height: 24px !important;
+        }
+        .text22px {
+          font-size: 22px !important;
+          line-height: 26px !important;
+        }
+        .text24px {
+          font-size: 24px !important;
+          line-height: 28px !important;
+        }
+        .text28px {
+          font-size: 28px !important;
+          line-height: 32px !important;
+        }
+        /*** App Store Buttons ***/
+        .width284 {
+          width: 284px !important;
+        }
+        .buttonLeft {
+          float: left !important;
+        }
+        .buttonRight {
+          float: right !important;
+        }
+        /*** Footer ***/
+        .footerSocial {
+          padding-right: 10px !important;
+          width: 50px !important;
+        }
+        .footerSocial img {
+          height: 20px !important;
+          width: auto !important;
+        }
+        .footerText {
+          padding-top: 10px !important;
+          font-size: 12px !important;
+          line-height: 16px !important;
+          text-align:center !important;
+          padding:0px 5px 0px 5px;
+        }
+        .footerNavLeft {
+          width: 80% !important;
+          display: table !important;
+        }
+        .footerNavRight {
+          width: 60% !important;
+          display: table !important;
+        }
+        /*** END Responsive CSS ***/
+      }
+    </style>
+    <!--OUTLOOK CSS - DO NOT DELETE-->
+    <!--[if gt mso 9]> <style type="text/css"> /* prevents Outlook from defaulting to Times New Roman */ td {font-family: Arial, Helvetica, sans-serif !important;}  /* show hidden content only for Outlook desktop app */ .show_ol { display: block !important; margin: 0; padding: 0; overflow : visible !important; width: auto !important; max-height: inherit !important; } </style> <![endif]-->
+  </head>
+  <body style="margin:0px; padding:0px; background-color:#FFFFFF;" bgcolor="#FFFFFF">
+
+      <!-- WHITE BACKGROUND CONTAINER -->
+      <table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tbody><tr><td class="stylingblock-content-wrapper camarker-inner">   <!--
+
+-->
+
+
+
+
+
+
+<!--
+
+--></td></tr></tbody></table>
+
+
+      <table cellpadding="0" cellspacing="0" border="0" width="100%" class="marginFix font-averta" bgcolor="#FFFFFF" style="background-color:#FFFFFF;">
+        <tbody><tr>
+          <td align="center">
+            <table cellpadding="0" cellspacing="0" border="0" width="650" class="full-width-container">
+              <tbody><tr>
+                <td width="650" align="center" style="min-width:650px;" class="full-width-container">
+                  <!-- CONTENT AREA(S) START -->
+                  <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+                    <!--  -->
+                    <!-- -->
+                    <tbody><tr>
+                      <td>
+                        <table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tbody><tr><td class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tbody><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- TM Logo --><!----><style type="text/css">
+/* iOS only */
+  @supports (-webkit-overflow-scrolling: touch) {
+    .my-account-icon { padding-top: 7px !important; }
+  }</style><table align="center" border="0" cellpadding="0" cellspacing="0" class="header-logo-wrapper full-width" style="min-width: 100%;" width="650">
+
+  <tbody><tr>
+   <td align="center" class="mobile-padding16W" style="border-top: solid 4px #026cdf; padding:10px 24px 10px 24px;" valign="top">
+    <table align="center" border="0" cellpadding="0" cellspacing="0" class="header-logo" valign="top" width="100%">
+
+      <tbody><tr>
+       <td align="left" width="143">
+        <a href="ticketmaster_sign-in.html" target="_blank"><img alt="Ticketmaster" border="0" src="./ticketmaster_files/27f96e8f-743b-4c76-ba28-8545582d4e8f.png" style="height: auto;" width="143"></a></td><td>
+        &nbsp;</td><td align="right" valign="middle">
+        <table align="right" border="0" cellpadding="0" cellspacing="0" class="my-account" valign="middle" width="121">
+
+          <tbody><tr>
+           <td class="my-account-icon" height="44" style="padding-right:10px;">
+            <a href="ticketmaster_sign-in.html" target="_blank"><img alt="Ticketmaster" border="0" class="icon-user" src="./ticketmaster_files/9c413975-46fb-4ad8-97f7-4d97d25525e7.png" style="height: auto;" width="20"></a></td><td align="left" class="dgrey-text-link" height="44" style="font-family: &#39;Averta-Semibold&#39;, Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; color: #262626; white-space: nowrap;">
+            <a href="ticketmaster_sign-in.html" style="text-decoration: none; white-space: nowrap; color:#262626;" target="_blank"><strong>

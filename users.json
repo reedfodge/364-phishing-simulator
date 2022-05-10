@@ -1,0 +1,72 @@
+[
+	{
+		"first_name": "Britanni",
+		"last_name": "Nicholson",
+		"email": "nicholsonbritanni@google.org",
+		"phone": "(484) 236-5185",
+		"platforms": "Ticketmaster, Venmo"
+	},
+	{
+		"first_name": "Virginia",
+		"last_name": "Wooten",
+		"email": "w.virginia@yahoo.org",
+		"phone": "(371) 746-7871",
+		"platforms": "Venmo, Ticketmaster"
+	},
+	{
+		"first_name": "Aladdin",
+		"last_name": "Burnett",
+		"email": "aladdin-burnett1027@google.net",
+		"phone": "(330) 851-8347",
+		"platforms": "Venmo"
+	},
+	{
+		"first_name": "Hadassah",
+		"last_name": "Campbell",
+		"email": "c-hadassah@aol.org",
+		"phone": "(780) 498-8921",
+		"platforms": "Ticketmaster, Venmo"
+	},
+	{
+		"first_name": "Solomon",
+		"last_name": "Drake",
+		"email": "solomon.drake@aol.org",
+		"phone": "(868) 706-5322",
+		"platforms": "Ticketmaster"
+	},
+	{
+		"first_name": "Jonas",
+		"last_name": "Goff",
+		"email": "jgoff2486@outlook.net",
+		"phone": "(406) 820-5296",
+		"platforms": "Ticketmaster, Venmo"
+	},
+	{
+		"first_name": "Raya",
+		"last_name": "Mcpherson",
+		"email": "mcpherson_raya9416@hotmail.net",
+		"phone": "(373) 557-9175",
+		"platforms": "Ticketmaster"
+	},
+	{
+		"first_name": "Doris",
+		"last_name": "Vinson",
+		"email": "d-vinson6740@hotmail.net",
+		"phone": "(323) 535-8622",
+		"platforms": "Venmo, Ticketmaster"
+	},
+	{
+		"first_name": "Julie",
+		"last_name": "Riddle",
+		"email": "jriddle5336@aol.com",
+		"phone": "(783) 513-7327",
+		"platforms": "Venmo, Ticketmaster"
+	},
+	{
+		"first_name": "Nolan",
+		"last_name": "Mckee",
+		"email": "mnolan@aol.com",
+		"phone": "(615) 450-6255",
+		"platforms": "Venmo, Ticketmaster"
+	}
+]
