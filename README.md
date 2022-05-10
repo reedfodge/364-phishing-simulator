@@ -1,4 +1,4 @@
-# 364-phishing-simulator
+# Reed Fodge's Phishing Simulation for INST364
 
 ## Setup:
 
