@@ -24,6 +24,8 @@ Enter "audit" at the option selection
 ```
 Audit mode will allow you to view the different components of the simulation individually. The first option allows you to view a sample email that would be sent out to victims while also allowing the user to enter the name that is used in the email manually.	The second option allows you to view the spoofed login pages that would submit their compromised login information to a database. The third option allows you to view the spoofed password reset site, which will have the user submit another unique password. The fourth option allows the user to view randomly generated sample data that could be used by an attacker.
 
+Upon selecting options 1-3, you will also be prompted to choose a company you would like to view the HTML document from, either Venmo or Ticketmaster. Additionally, for option 1, you will also be prompted to enter the name of the account holder you wish to be displayed in the sample phishing email.
+
 ### Automatic Simulation Mode
 ```
 Enter "auto" at the option selection
